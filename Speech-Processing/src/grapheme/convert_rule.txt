@@ -1,0 +1,90 @@
+﻿# Remplacements sur l'élément :
+# -----------------------------
+
+(/ក/," Ka")        #KHMER LETTER KA
+(/ខ/," KHa")       #KHMER LETTER KHA
+(/គ/," Ko")        #KHMER LETTER KO
+(/ឃ/," KHo")       #KHMER LETTER KHO
+(/ង/," NGo")       #KHMER LETTER NGO
+(/ច/," Ca")        #KHMER LETTER CA
+(/ឆ/," CHa")       #KHMER LETTER CHA
+(/ជ/," Co")        #KHMER LETTER CO
+(/ឈ/," CHo")       #KHMER LETTER CHO
+(/ញ/," NYo")       #KHMER LETTER NYO
+(/ដ/," Da")        #KHMER LETTER DA
+(/ឋ/," TTHa")      #KHMER LETTER TTHA
+(/ឌ/," Do")        #KHMER LETTER DO
+(/ឍ/," TTHo")      #KHMER LETTER TTHO
+(/ណ/," NNo")       #KHMER LETTER NNO
+(/ត/," Ta")        #KHMER LETTER TA
+(/ថ/," THa")       #KHMER LETTER THA
+(/ទ/," To")        #KHMER LETTER TO
+(/ធ/," THo")       #KHMER LETTER THO
+(/ន/," No")        #KHMER LETTER NO
+(/ប/," Ba")        #KHMER LETTER BA
+(/ផ/," PHa")       #KHMER LETTER PHA
+(/ព/," Po")        #KHMER LETTER PO
+(/ភ/," PHo")       #KHMER LETTER PHO
+(/ម/," Mo")        #KHMER LETTER MO
+(/យ/," Yo")        #KHMER LETTER YO
+(/រ/," Ro")        #KHMER LETTER RO
+(/ល/," Lo")        #KHMER LETTER LO
+(/វ/," Vo")        #KHMER LETTER VO
+(/ឝ/," SHa")       #KHMER LETTER SHA
+(/ឞ/," SSo")       #KHMER LETTER SSO
+(/ស/," Sa")        #KHMER LETTER SA
+(/ហ/," Ha")        #KHMER LETTER HA
+(/ឡ/," La")        #KHMER LETTER LA
+(/អ/," Qa")        #KHMER LETTER QA
+(/ឤ/," QAA")       #KHMER INDEPENDENT VOWEL QAA
+(/ឥ/," QI")        #KHMER INDEPENDENT VOWEL QI
+(/ឦ/," QII")       #KHMER INDEPENDENT VOWEL QII
+(/ឧ/," QU")        #KHMER INDEPENDENT VOWEL QU
+(/ឨ/," QUK")       #KHMER INDEPENDENT VOWEL QUK
+(/ឩ/," QUU")       #KHMER INDEPENDENT VOWEL QUU
+(/ឪ/," QUUV")      #KHMER INDEPENDENT VOWEL QUUV
+(/ឫ/," RY")        #KHMER INDEPENDENT VOWEL RY
+(/ឬ/," RYY")       #KHMER INDEPENDENT VOWEL RYY
+(/ឭ/," LY")        #KHMER INDEPENDENT VOWEL LY
+(/ឮ/," LYY")       #KHMER INDEPENDENT VOWEL LYY
+(/ឯ/," QE")        #KHMER INDEPENDENT VOWEL QE
+(/ឰ/," QAI")       #KHMER INDEPENDENT VOWEL QAI
+(/ឱ/," QOO1")      #KHMER INDEPENDENT VOWEL QOO TYPE ONE
+(/ឲ/," QOO2")      #KHMER INDEPENDENT VOWEL QOO TYPE TWO
+(/ឳ/," QAU")       #KHMER INDEPENDENT VOWEL QAU
+(/ា/," AA")        #KHMER VOWEL SIGN AA
+(/ិ/," I") #KHMER VOWEL SIGN I
+(/ី/," II")        #KHMER VOWEL SIGN II
+(/ឹ/," Y") #KHMER VOWEL SIGN Y
+(/ឺ/," YY")        #KHMER VOWEL SIGN YY
+(/ុ/," U") #KHMER VOWEL SIGN U
+(/ូ/," UU")        #KHMER VOWEL SIGN UU
+(/ួ/," UA")        #KHMER VOWEL SIGN UA
+(/ើ/," OE")        #KHMER VOWEL SIGN OE
+(/ឿ/," YA")        #KHMER VOWEL SIGN YA
+(/ៀ/," IE")        #KHMER VOWEL SIGN IE
+(/េ/," E") #KHMER VOWEL SIGN E
+(/ែ/," AE")        #KHMER VOWEL SIGN AE
+(/ៃ/," AI")        #KHMER VOWEL SIGN AI
+(/ោ/," OO")        #KHMER VOWEL SIGN OO
+(/ៅ/," AU")        #KHMER VOWEL SIGN AU
+#SOME KHMER SIGNS - Some of them converted to Silence
+(/ំ/," NIKAHIT")   #KHMER SIGN NIKAHIT
+(/ះ/," REAHMUK")   #KHMER SIGN REAHMUK
+(/ៈ/," YUUKALEAPINTU")     #KHMER SIGN YUUKALEAPINTU
+
+(/៉/," MUUSIKATOAN")     #KHMER SIGN MUUSIKATOAN
+(/៊/," TRIISAP")     #KHMER SIGN TRIISAP
+(/់/," BANTOC")     #KHMER SIGN BANTOC
+(/័/," SAMYOK")     #KHMER SIGN SAMYOK
+(/៌/," ROBAT")     #KHMER SIGN ROBAT
+(/៍/," TOANDAKHIAT")     #KHMER SIGN TOANDAKHIAT
+(/៏/," AHSDA")     #KHMER SIGN AHSDA
+(/្/," COENG")     #KHMER SIGN COENG
+
+(/។/," SIL")       #KHMER SIGN KHAN
+(/៕/," SIL")       #KHMER SIGN BARIYOOSAN
+(/៖/," SIL")       #KHMER SIGN CAMNUC PII KUUH":"
+(/ៗ/," SIL")       #KHMER SIGN LEK TOO
+(/៘/," SIL")    #KHMER SIGN BEYYAL
+(/៛/," RIEL")      #KHMER CURRENCY SYMBOL RIEL
